@@ -1,5 +1,6 @@
 {
   "name": "mcp-loan-calculator",
+  "repository": {"type": "git", "url": "theluckystrike/mcp-loan-calculator.git"},
   "version": "1.0.0",
   "description": "MCP server: loan-calculator",
   "type": "module",
